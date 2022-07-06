@@ -63,6 +63,15 @@
     font-weight: 700px;
 }
 
+.donate p{
+
+    color: #707070;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+
+    
+}
+
 .donate-money{
  text-align: center;
  line-height: 100px;
@@ -114,4 +123,24 @@
     -o-border-radius: 5px;
     color:#FFFFFF;
 }
+
+
+.donation-plan{
+    text-align: center;
+    color: #121212;
+    
+}
+
+.donation-plan h1{
+    font-family: 'Inter', sans-serif;
+    line-height: 50px;
+    font-weight: 700px;
+}
+
+.donation-plan p{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+}
+
+
 
