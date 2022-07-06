@@ -66,6 +66,7 @@
 .donate-money{
  text-align: center;
  line-height: 100px;
+
 }
 
 .border{
@@ -86,5 +87,31 @@
     font-size: 25px;
 
 }
- 
+
+
+.amount{
+    border-bottom: 1px solid #DADADA;
+   text-align: center;
+   color:#B3B3B3;
+   
+}
+
+.button{
+
+    text-align: center;
+    line-height: 70px;
+    text-decoration: none;
+    
+}
+.button a{
+    text-decoration: none;
+    padding:10px 10px;
+    background:#FF5959;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+    color:#FFFFFF;
+}
 
