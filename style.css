@@ -152,7 +152,7 @@
 .food-famaly{
 
    
-    height: 130px;
+    height: 175px;
     width: 253px;
     color:  #707070;
     font-size: 16px;
@@ -170,7 +170,7 @@
 }
 
 .shelter-family{
-    height: 138px;
+    height: 182px;
     width: 253px;
     color:  #707070;
     background: rgba(255, 89, 89, 0.1);
@@ -184,7 +184,7 @@
 .education-chidl{
 
     width: 253px;
-    height: 130px;
+    height: 180px;
     font-size: 16px;
     color:  #707070;
     text-align: justify;
@@ -192,6 +192,26 @@
     background-color: #FFF4D6;
     font-family: 'Poppins', sans-serif;
     
+}
+
+.footer{
+    text-align: center;
+    background: black;
+    color:#FF5959;
+    height: 100px;
+    padding-top: 30px;
+    font-family: 'Lobster', cursive;
+}
+
+.footer p{
+
+    color:#D9DBE1;
+    font-family: 'Manrope', sans-serif;
+    line-height: 45px;
+}
+
+.icon{
+    width: 40px;
 }
 
 
